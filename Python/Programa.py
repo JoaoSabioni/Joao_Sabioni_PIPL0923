@@ -23,7 +23,7 @@ while para:
         para = False
 
     else:
-        print("Opção inválida.")
+        print("Opção invalida.")
 
 print("Bye - Bye")
 
