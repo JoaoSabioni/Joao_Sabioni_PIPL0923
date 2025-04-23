@@ -3,11 +3,10 @@
 int main() {
     int num1, num2;
 
-    // Entrada de dados
-    printf("Digite dois números inteiros: ");
+   
+    printf("Digite dois nÃºmeros inteiros: ");
     scanf("%d %d", &num1, &num2);
 
-    // Exibir em ordem crescente
     if (num1 < num2) {
         printf("Ordem crescente: %d %d\n", num1, num2);
         printf("Ordem decrescente: %d %d\n", num2, num1);
