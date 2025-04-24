@@ -5,5 +5,5 @@ for codigo in range(0, 256, 20):
     continuar = input("\nDeseja continuar?").strip().lower()
     
     if continuar != 's':
-        print("Saindo do programa...")
+        print("ByeBye")
         break
